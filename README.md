@@ -1,11 +1,7 @@
-Project: Chess
+Project: Checkers
 
 Focus:
 
--using git
+-modules
 
--class inheritance
-
--raising & handling errors
-
--deep duping a complex object
+-error handling
